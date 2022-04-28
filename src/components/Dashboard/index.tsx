@@ -7,7 +7,7 @@ export function Dashboard() {
   return (
     <Container>
       <Summary />
-      <TransactionsTable /> 
+      <TransactionsTable/> 
     </Container>
   )
 }
